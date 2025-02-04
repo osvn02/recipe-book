@@ -1,0 +1,1 @@
+This project was developped as part of the data structures course. It implements linked list to create a recipe book. 
