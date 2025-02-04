@@ -1,0 +1,366 @@
+Licuado de espinacas y frutas
+Cena
+Diego
+Perez
+10
+1
+taza
+avena
+1
+pizca
+azucar
+1
+gota
+colorante artificial verde
+1
+taza
+espinacas
+30
+gramos
+fresa
+10
+gramos
+hemp
+30
+gramos
+hielo
+1
+taza
+leche de coco
+100
+gramos
+mango
+100
+gramos
+pi¤a
+1
+pieza
+vaso   
+Vierta todos los ingredientes a excepcion del vaso en una licuadora. Licue hasta alcanzar la consistencia deseada y vierta la mezcla en el vaso.
+Plato de fruta con yoghurt
+Desayuno
+Brandon
+Rosales
+15
+5
+pieza
+fresas
+1
+pieza
+guayaba
+1
+pieza
+manzana
+2
+rebanada
+melon
+1
+cucharada
+miel
+50
+gramos
+moras
+2
+rebanada
+papaya
+1
+pieza
+pera
+1
+pieza
+platano
+1
+taza
+yoghurt griego   
+Vierta toda la fruta en un bowl previamente cortada y a¤ada el yoghurt. Despues a¤ada la miel y revuelva hasta que se distribuya uniformemente.
+Sandwich de huevo
+Desayuno
+Daniel
+Villegas
+20
+1
+cucharada
+aceite
+2
+rodaja
+cebolla
+2
+pieza
+huevo
+1
+pieza
+jalapeno
+1
+rebanada
+jamon
+1
+pieza
+jitomate
+10
+gramos
+lechuga
+1
+cucharada
+mayonesa
+2
+pieza
+pan de caja
+1
+pizca
+pimienta
+1
+pizca
+sal   
+Cocine los huevos y caliente el pan. Unte la mayonesa sobre el pan y coloque los huevos y vegetales en este.
+Pechuga de pollo rellena
+Cena
+Baruc
+Mondragon
+30
+1
+cucharada
+aceite
+1
+vaso
+agua
+1
+pizca
+comino
+300
+mililitros
+crema de elote
+5
+rebanada
+jamon
+500
+gramos
+pechuga de pollo
+1
+pizca
+pimienta
+1
+pieza
+pimiento
+5
+rebanada
+queso amarillo
+1
+pizca
+sal   
+Haga un orificio en la pechuga por en medio y rellene con los ingredientes. A¤ada los sazonadores. Cocine hasta alcanzar la coccion del pollo y por ultimo vierta la crema de elote sobre la pechuga.
+Hot cakes de avena
+Cena
+Cesar
+Villegas
+30
+1
+taza
+avena
+1
+cucharada
+canela
+250
+mililitros
+claras de huevo
+1
+cucharada
+crema de cacahuate
+1
+pizca
+endulzante artificial
+2
+piezas
+esas
+2
+piezas
+platano
+1
+pizca
+polvo para hornear
+1
+pizca
+sal
+1
+cucharada
+vainilla   
+Ingrese todos los ingredientes a excepcion de la crema y las fresas a una licuadora. Bata hasta crear la mezcla y cocine a fuego bajo. A¤ada el resto de ingredientes como toppings.
+Hamburguesa
+Comida
+Octavio
+Villegas
+30
+150
+grs
+carne molida
+1
+cucharada
+catsup
+2
+rodaja
+cebolla
+1
+pieza
+jalapeno
+1
+pieza
+jitomate
+10
+gramos
+lechuga
+1
+cucharada
+mayonesa
+1
+cucharada
+mostaza
+1
+pieza
+pan
+1
+pieza
+queso asader   
+Cocine la carne y coloque el queso sobre esta, unte la mayonesa, la catsup y la mostaza sobre el pan y coloque la carne sobre la base del pan. Coloque los vegetales y por ultimo ponga la tapa del pan.
+Milanesa de pollo
+Cena
+Antonia
+Navarro
+50
+1
+cucharada
+aceite
+1
+vaso
+agua
+2
+rodaja
+cebolla
+1
+pizca
+comino
+1
+pieza
+jalapeno
+1
+pieza
+jitomate
+10
+gramos
+lechuga
+250
+gramos
+pechuga de pollo
+1
+pieza
+queso asadero
+1
+pizca
+sal   
+Cocine el pollo con el aceite. A¤ada la sal y todo lo demas. Utilice las verduras para hacer ensalada.
+Sandwich de nopal con jamon y queso
+Desayuno
+Arturo
+Gomez
+50
+1
+cucharada
+aceite
+2
+rodaja
+cebolla
+1
+pizca
+comino
+1
+pieza
+jalapeno
+2
+rebanada
+jamon
+1
+pieza
+jitomate
+10
+gramos
+lechuga
+2
+penca
+nopal
+200
+gramos
+queso asadero
+1
+pizca
+sal   
+Sazone las pencas de nopal y aselas hasta alcanzar el sellado deseado. Coloque los ingredientes del sandwich entre las pencas y continue con la coccion a fuego bajo hasta derretir el queso
+Lomo Relleno
+Navideno
+Veronica
+Almodovar
+120
+1
+cucharada
+aceite
+300
+mililitros
+adobo
+1
+vaso
+agua
+1
+pizca
+comino
+5
+rebanada
+jamon
+1
+kilogramo
+lomo de cerdo
+1
+pizca
+pimienta
+1
+pieza
+pimiento
+5
+rebanada
+queso amarillo
+1
+pizca
+sal   
+Rellene el cerdo con los ingredientes y cubra con el adobo y los sazonadores. Meta al horno por dos horas y deje reposar sobre papel alumninio
+Chayote relleno de jamon
+Navideno
+Dave
+Mustaine
+120
+300
+gramos
+arroz
+3
+rodaja
+cebolla
+1
+pieza
+chayote
+50
+gramos
+chicharos
+1
+pizca
+comino
+5
+rebanada
+jamon
+1
+pizca
+pimienta
+1
+pieza
+pimiento
+100
+gramos
+queso asadero
+1
+pizca
+sal   
+Parta el chayote a la mitad y rellene con el queso, el jamon y los vegetales. Sazone y hornee hasta derretir el queso. Acompa¤ar con arroz.

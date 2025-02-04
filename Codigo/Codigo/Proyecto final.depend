@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1683440406 source:d:\osvn0\documents\escuela\estructuras de datos\proyecto final\ingredient.cpp
+	"ingredient.h"
+
+1683439935 d:\osvn0\documents\escuela\estructuras de datos\proyecto final\ingredient.h
+	<string>
+	<iostream>
+
+1683419283 source:d:\osvn0\documents\escuela\estructuras de datos\proyecto final\main.cpp
+	<iostream>
+	"menu.h"
+
+1683488576 source:d:\osvn0\documents\escuela\estructuras de datos\proyecto final\menu.cpp
+	"menu.h"
+
+1683400612 source:d:\osvn0\documents\escuela\estructuras de datos\proyecto final\name.cpp
+	"name.h"
+
+1683400597 d:\osvn0\documents\escuela\estructuras de datos\proyecto final\name.h
+	<string>
+	<iostream>
+
+1683489493 source:d:\osvn0\documents\escuela\estructuras de datos\proyecto final\recipe.cpp
+	"recipe.h"
+
+1683489350 d:\osvn0\documents\escuela\estructuras de datos\proyecto final\slist.h
+	<exception>
+	<string>
+	<iostream>
+	<fstream>
+
+1683419059 d:\osvn0\documents\escuela\estructuras de datos\proyecto final\recipe.h
+	<string>
+	<iostream>
+	"slist.h"
+	"ingredient.h"
+	"name.h"
+
+1683473576 d:\osvn0\documents\escuela\estructuras de datos\proyecto final\dlist.h
+	<exception>
+	<string>
+	<iostream>
+	<fstream>
+
+1683420754 d:\osvn0\documents\escuela\estructuras de datos\proyecto final\menu.h
+	<iostream>
+	"recipe.h"
+	"dlist.h"
+
